@@ -3,9 +3,9 @@
 This cli tool extracts the Channel Id from a youtube Link
 
 it only work on url that already include the id like this:
-https://www.youtube.com/channel/Id
-or links that ar abreviated like this:
-https://www.youtube.com/@Name
+https://www.youtube.com/channel/Id  
+or links that are abreviated like this:
+https://www.youtube.com/@Name  
 
 Usage  
 arg 1 is the Link  
