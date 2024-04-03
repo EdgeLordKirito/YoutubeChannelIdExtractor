@@ -7,6 +7,11 @@
     <Nullable>enable</Nullable>
 	<PackAsTool>true</PackAsTool>
 	<ToolCommandName>YtChId</ToolCommandName>
+	<Title>YtChannelIdExtractor</Title>
+	<Authors>EdgeLordKirito</Authors>
+	<Description>A Cli tool that extracts channel ids from Links</Description>
+	<RepositoryUrl>https://github.com/EdgeLordKirito/YoutubeChannelIdExtractor</RepositoryUrl>
+	<RepositoryType>git</RepositoryType>
   </PropertyGroup>
 
 </Project>
