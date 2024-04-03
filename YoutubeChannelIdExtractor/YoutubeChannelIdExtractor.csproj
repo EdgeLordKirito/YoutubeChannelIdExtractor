@@ -12,6 +12,20 @@
 	<Description>A Cli tool that extracts channel ids from Links</Description>
 	<RepositoryUrl>https://github.com/EdgeLordKirito/YoutubeChannelIdExtractor</RepositoryUrl>
 	<RepositoryType>git</RepositoryType>
+	<PackageLicenseFile>LICENSE</PackageLicenseFile>
+	<PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
+	<PackageReadmeFile>README.md</PackageReadmeFile>
   </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\LICENSE">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+    <None Include="..\README.md">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
 
 </Project>
