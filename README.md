@@ -9,5 +9,5 @@ or links that ar abreviated like This
 https://www.youtube.com/@Name
 
 Usage
-arg 1 is the Link
+arg 1 is the Link  
 arg 2 is optional and is a filepath that point to an output file
