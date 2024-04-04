@@ -8,5 +8,5 @@ or links that are abreviated like this:
 https://www.youtube.com/@Name  
 
 Usage  
-arg 1 is the Link  
-arg 2 is optional and is a filepath that point to an output file
+arg 1 is the Link or an input file every single line of the file is used as an input  
+arg 2 is the optional output file Path
